@@ -7,7 +7,7 @@ I do Front end development
 In the fast-paced field of software development, I leverage my experience with React and Redux for efficient state management, and Next.js to build robust, high-performance web applications. My knowledge of database technologies includes working with MongoDB and Prisma, ensuring data integrity and optimizing query execution.
 
 * 🌍  I'm based in Moldova
-* ✉️  You can contact me at [froma5361@gmail.com](mailto:froma5361@gmail,com)
+* ✉️  You can contact me at [froma5361@gmail.com](mailto:froma5361@gmail.com)
 
 ### Skills
 
