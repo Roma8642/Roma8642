@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Roman
+#### I do Front end development
+![I do Front end development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Roma8642/Roma8642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In the fast-paced field of software development, I leverage my experience with React and Redux for efficient state management, and Next.js to build robust, high-performance web applications. My knowledge of database technologies includes working with MongoDB and Prisma, ensuring data integrity and optimizing query execution.
 
-Here are some ideas to get you started:
+Skills: Next JS / REACT / JS / HTML / CSS / TAILWIND/ SCSS/ TS/ REDUX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Roma8642)  
+
+![GitHub metrics](https://metrics.lecoq.io/Roma8642)  
+
