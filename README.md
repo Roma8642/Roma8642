@@ -1,7 +1,7 @@
 PREVIEW
 MARKDOWN
 COPY
-Hi 👋 My name is Roman Isak
+Hi, My name is Roman Isak
 ===========================
 
 I do Front end development
