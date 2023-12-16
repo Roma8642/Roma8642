@@ -1,6 +1,3 @@
-PREVIEW
-MARKDOWN
-COPY
 Hi, My name is Roman Isak
 ===========================
 
