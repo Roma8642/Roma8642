@@ -1,7 +1,7 @@
 Hi, My name is Roman 
 ===========================
 
-I do web end development
+I do web development
 --------------------------
 
 In the fast-paced field of software development, I leverage my experience with React and Redux for efficient state management, and Next.js to build robust, high-performance web applications. My knowledge of database technologies includes working with MongoDB and Prisma, ensuring data integrity and optimizing query execution.
